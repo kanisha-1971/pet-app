@@ -1,16 +1,29 @@
-# petapp
+# **PetApp**
 
-A new Flutter project.
+### **Overview**
+PetApp is a Flutter-based mobile application designed for pet lovers to manage pet information dynamically. It integrates Firebase services for user authentication and Firestore for real-time data management, providing a seamless and user-friendly experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **Features**
+- **User Authentication**:
+  - Secure login and logout functionality using Firebase Authentication.
+  - Persistent user sessions.
 
-A few resources to get you started if this is your first Flutter project:
+- **Pet Management**:
+  - Real-time display of pet data from Firestore.
+  - Automatic updates on data changes in Firestore.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Firebase Integration**:
+  - Firebase Authentication for user management.
+  - Firestore for real-time database operations.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## **Demo**
+Check out the app in action:  
+[**PetApp Demo Video**](https://github.com/kanisha-1971/pet-app/blob/main/WhatsApp%20Video%202024-12-04%20at%208.16.04%20PM.mp4)
+
+---
+
+## **Project Structure**
